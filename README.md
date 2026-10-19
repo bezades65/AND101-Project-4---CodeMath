@@ -35,22 +35,19 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src="unit%204%20demo.gif" title="Tip Calculator Demo" width="300" alt="Tip Calculator Demo" />
+
 
 GIF created with **Adobe Express**
 
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+While working on this project, I practiced using EditText to receive user input, Button to handle user interaction, and TextView to display calculated results. I also learned how to implement ViewBinding to connect the XML layout with Kotlin code. 
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2026** **Beza Desta**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
